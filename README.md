@@ -4,6 +4,8 @@
 
 This project aims to build a linear regression model to predict CO2 emissions based on various features related to vehicles. The dataset used in this project contains information about different car models and their corresponding CO2 emissions. By creating a linear regression model, we aim to understand the relationship between vehicle attributes and CO2 emissions, thereby enabling us to predict emissions for new or existing car models.
 
+My first ML Project!
+
 ## Dataset
 
 The dataset used in this project contains the following features:
