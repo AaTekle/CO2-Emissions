@@ -40,7 +40,7 @@ To run this project, follow these steps:
 2. **Clone the Repository**: Clone this repository to your local machine using Git:
 
    ```
-   git clone https://github.com/aarontekle/CO2-Emissions-Linear-Regression.git
+   git clone https://github.com/aarontekle/CO2-Emissions-Linear-Regression-Model.git
    ```
 
 3. **Data**: Place the dataset file (e.g., `CO2_emissions_dataset.csv`) in the project folder.
