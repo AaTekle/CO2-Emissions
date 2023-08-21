@@ -6,6 +6,18 @@ This project aims to build a linear regression model to predict CO2 emissions ba
 
 My first ML Project!
 
+## Techniques Used
+
+Data Scraping: Data was scraped from the Kaggle dataset using web scraping techniques to obtain the necessary CO2 emissions data.
+
+Data Preprocessing: Techniques such as handling missing values, encoding categorical variables (one-hot encoding), and scaling numerical features (standardization or normalization) were used to prepare the data for training.
+
+Feature Selection: Feature selection techniques, such as correlation analysis and feature importance, were applied to identify the most relevant features for the model.
+
+Linear Regression: A linear regression model was implemented using ML libraries such as scikit-learn + more. The model's parameters were learned from the training data to create a linear equation that predicts CO2 emissions.
+
+Model Evaluation: The model's performance was assessed using metrics like Mean Squared Error (MSE) on a test dataset. Visualizations were used to present the model's predictions and the actual CO2 emissions values.
+
 ## Dataset
 
 The dataset used in this project contains the following features:
